@@ -1,0 +1,61 @@
+.num {
+  display: flex;
+  gap: 6%;
+}
+.navbar{
+    display: flex;
+    gap: 40%;
+}
+.image{
+    margin-left: 5%;
+    margin-top: -80%;
+    display: flex;
+}
+.style{
+    display: flex;
+    gap: 24%;
+    margin-right: 20%;
+    font-style: oblique;
+}
+.images{
+    display: flex;
+    margin-left: 10%;
+    gap: 10%;
+}
+.sentence{
+    text-align: center;
+}
+.statements{
+    display: flex;
+    gap: 20%
+}
+.web{
+   padding-bottom: 10%;
+   height: 10%;  
+}
+.button{
+    border-radius: 20px;
+    padding: 10px;
+}
+.cards{
+    display: flex;
+    margin-left: 10%;
+    gap: 10%;
+}
+.man{
+    height: 20%;
+    width: 20%;
+
+}
+.arrow{
+    display: flex;
+
+}
+.smart{
+width: 60%;
+height: 50%;
+}
+.style{
+    font-size: large;
+    font-style: oblique;
+}
